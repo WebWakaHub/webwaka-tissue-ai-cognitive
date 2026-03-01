@@ -16,5 +16,10 @@
     "offline-first",
     "nigeria-first"
   ],
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@webwaka/cell-ai-cognitive-cell": "workspace:*",
+    "@webwaka/cell-ai-inference-cell": "workspace:*",
+    "@webwaka/cell-ai-streaming-cell": "workspace:*"
+  }
 }
